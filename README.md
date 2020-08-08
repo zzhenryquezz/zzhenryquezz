@@ -1,7 +1,5 @@
 ### Hey 👋, I'm Henrique
 
-![Linkedin Badge](https://img.shields.io/badge/-Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-de-oliveira/)
-
 <br />
 
 Hi there, I'm **Henrique**, a **Web developer** and a **Tech lover** 🚀 from Brazil, currently working in smart city solutions in startup **[Exati](https://exati.com.br)**
