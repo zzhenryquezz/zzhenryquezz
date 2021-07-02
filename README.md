@@ -10,7 +10,7 @@ Hi there, I'm **Henrique**, a **Web developer** and a **Tech lover** 🚀 from B
 
 - <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> I’m a fullstack focused in nodejs and vuejs
 - <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> I love Typescript and I want use in everywhere
-- :game_die: My interests are animes and some games like Dark souls
+- :game_die: My interests are animes and some games like Dark souls and genshin impact
 - <img alt="GIF" src="https://github.com/zzhenryquezz/zzhenryquezz/blob/master/happy.gif?raw=1" width="20vw" />  I have a blackpower
 
 
