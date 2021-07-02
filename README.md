@@ -2,7 +2,7 @@
 
 <br />
 
-Hi there, I'm **Henrique**, a **Web developer** and a **Tech lover** 🚀 from Brazil, currently working in smart city solutions in startup **[Exati](https://exati.com.br)**
+Hi there, I'm **Henrique**, a **Web developer** and a **Tech lover** 🚀 from Brazil
 
   <img align="right" alt="GIF" src="https://github.com/zzhenryquezz/zzhenryquezz/blob/master/burning.gif" />
 
