@@ -1,18 +1,13 @@
-### Hey 👋, I'm Henrique
-
-<br />
-
-Hi there, I'm **Henrique**, a **Web developer** and a **Tech lover** 🚀 from Brazil
+Hi there, I'm **Henrique**, a **Fullstack JS Developer** 🚀
 
   <img align="right" alt="GIF" src="https://github.com/zzhenryquezz/zzhenryquezz/blob/master/burning.gif" />
 
-**Talking about me:**
+**A little about me:**
 
-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> I’m a fullstack focused in nodejs and vuejs
-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> I love Typescript and I want use in everywhere
-- :game_die: My interests are animes and some games like Dark souls and genshin impact
-- <img alt="GIF" src="https://github.com/zzhenryquezz/zzhenryquezz/blob/master/happy.gif?raw=1" width="20vw" />  I have a blackpower
-
+- My main skill are nodejs and vuejs
+- I also like a lot of Typescript, so I use in most of my projects
+- I do some codewars too
+- And my hobbies are animes, mangas and games.
 
 **Languages and Tools:**  
 
@@ -22,7 +17,6 @@ Hi there, I'm **Henrique**, a **Web developer** and a **Tech lover** 🚀 from B
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+<code><img src="https://www.codewars.com/users/zzhenryquezz/badges/micro"></code>
